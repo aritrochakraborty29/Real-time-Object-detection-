@@ -1,6 +1,6 @@
 # Real-time-Object-detection-
 
-## For test the Image test:- 
+## <b>For test the Image test:-
 
 open the deep_learning_object_detection.py file in terminal
 
