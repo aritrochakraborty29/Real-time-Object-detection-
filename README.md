@@ -7,4 +7,4 @@ open the deep_learning_object_detection.py file in terminal
 
 # For the real time:-
 open the real_time_object_detection.py file in terminal
-## use itt python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
+## python real_time_object_detection.py --prototxt MobileNetSSD_deploy.prototxt.txt --model MobileNetSSD_deploy.caffemodel
